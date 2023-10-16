@@ -5,4 +5,4 @@
 3. Async Script Loading
 4. Shared Module Versioning (faker)
 5. Singleton Loading
-6.
+6. Consuming Remote Modules
