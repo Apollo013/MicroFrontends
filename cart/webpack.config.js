@@ -14,6 +14,13 @@ module.exports = {
                 "./CartIndex": "./src/index",
             },
             shared: ["faker"],
+            /*
+            shared: {
+                faker: {
+                    singleton: true, // Only load one copy of faker
+                },
+            },
+            */
         }),
         new HtmlWebpackPlugin({
             template: "./public/index.html",
