@@ -24,7 +24,7 @@ jobs:
             - run: npm run build
 
             - uses: shinyinc/action-aws-cli@v1.2
-            - run: aws s3 sync dist s3://mfw-dashboard-pjm.s3-website-eu-west-1/container/latest
+            - run: aws s3 sync dist s3://mfw-dashboard-pjm/container/latest
 
         env:
             AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
