@@ -33,6 +33,6 @@ The above apps demonstrate...
 1. Advanced Webpack configuration with development & production environments.
 2. Routing
 3. Shared Modules (package.json)
-4. CI/CD pipeline with Github Actions
-5. All apps deployed to AWS S3
-6. Files serverd from Amazon Cloudfront
+4. Implimenting a CI/CD pipeline with Github Actions
+5. All apps deployed to AWS S3 and serverd from Amazon Cloudfront
+6.
