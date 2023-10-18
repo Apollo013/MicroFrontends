@@ -35,4 +35,6 @@ The above apps demonstrate...
 3. Shared Modules (package.json)
 4. Implimenting a CI/CD pipeline with Github Actions
 5. All apps deployed to AWS S3 and serverd from Amazon Cloudfront
-6.
+6. Implementing CSS across multiple sub projects
+7. Multi-tier navigation through memory history & browser history
+8.
